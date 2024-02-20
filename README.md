@@ -1,5 +1,5 @@
 # shell-checker
-              -By Who Knows
+
 
 #### Install
 
